@@ -1,2 +1,2 @@
-# ibm-app-project-calculator
-Assignment / Project
+#Paradise-Nursery-Shopping-Application.
+signment / Project
